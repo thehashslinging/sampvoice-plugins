@@ -1,6 +1,6 @@
 # **SAMPVOICE**
 
-English | [Русский](https://github.com/CyberMor/sampvoice/blob/master/README.ru.md)
+English
 
 ## Description
 ---------------------------------
